@@ -27,5 +27,5 @@ end
 
 # Create a custom group
 group :local do
-  gem 'network_interface', :git => "https://github.com/timwr/network_interface.git", :branch => "master"
+  gem 'network_interface', :git => "https://github.com/alanflaherty/network_interface.git", :branch => "master"
 end
